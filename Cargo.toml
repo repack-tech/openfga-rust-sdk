@@ -1,5 +1,5 @@
 [package]
-name = "openfga-rust"
+name = "openfga-sdk"
 version = "0.0.1"
 authors = ["deevelopers@evyon.com"]
 description = "A high performance and flexible authorization/permission engine built for developers and inspired by Google Zanzibar."
